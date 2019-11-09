@@ -1,0 +1,9 @@
+{
+  "name": "node-change-file-name",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "find": "^0.3.0"
+  }
+}
