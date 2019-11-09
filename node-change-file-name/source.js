@@ -1,5 +1,5 @@
 module.exports = [
-	"source a",
-	"source b",
-	"source c"
+	"a.md",
+	"b.md",
+	"c.md",
 ];

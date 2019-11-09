@@ -1,5 +1,5 @@
 module.exports = [
-	"target a",
-	"target b",
-	"target c"
+	"d.md",
+	"e.md",
+	"f.md",
 ];
